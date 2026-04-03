@@ -1,0 +1,389 @@
+{
+  "scrapedAt": "2026-04-03T18:07:20.525Z",
+  "rankedTopics": [
+    {
+      "key": "infra_auth_security",
+      "label": "Infra auth / SSH / certificates / access control",
+      "storyMentions": 9,
+      "mentionCount": 327,
+      "score": 372,
+      "stories": [
+        "Show HN: I built a frontpage for personal blogs",
+        "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+        "Big-Endian Testing with QEMU",
+        "The Technocracy Movement of the 1930s",
+        "SSH certificates: the better SSH experience",
+        "Show HN: Apfel – The free AI already on your Mac"
+      ]
+    },
+    {
+      "key": "local_ai",
+      "label": "Local AI / on-device models",
+      "storyMentions": 4,
+      "mentionCount": 199,
+      "score": 219,
+      "stories": [
+        "Show HN: TurboQuant for vector search – 2-4 bit compression",
+        "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+        "SSH certificates: the better SSH experience",
+        "Show HN: Apfel – The free AI already on your Mac"
+      ]
+    },
+    {
+      "key": "low_level_systems",
+      "label": "Low-level systems / endianness / qemu / embedded",
+      "storyMentions": 13,
+      "mentionCount": 132,
+      "score": 197,
+      "stories": [
+        "iNaturalist",
+        "Show HN: I built a frontpage for personal blogs",
+        "Go on Embedded Systems and WebAssembly",
+        "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+        "Big-Endian Testing with QEMU",
+        "Show HN: TurboQuant for vector search – 2-4 bit compression"
+      ]
+    },
+    {
+      "key": "retrieval_search",
+      "label": "Post-RAG retrieval / search architecture",
+      "storyMentions": 14,
+      "mentionCount": 87,
+      "score": 157,
+      "stories": [
+        "Show HN: I built a frontpage for personal blogs",
+        "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+        "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+        "Big-Endian Testing with QEMU",
+        "Show HN: TurboQuant for vector search – 2-4 bit compression",
+        "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini"
+      ]
+    },
+    {
+      "key": "software_bloat_ux",
+      "label": "Software bloat / uninstall pain / native UX",
+      "storyMentions": 8,
+      "mentionCount": 88,
+      "score": 128,
+      "stories": [
+        "Show HN: I built a frontpage for personal blogs",
+        "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+        "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+        "SSH certificates: the better SSH experience",
+        "Show HN: Apfel – The free AI already on your Mac",
+        "What Category Theory Teaches Us About DataFrames"
+      ]
+    },
+    {
+      "key": "oss_governance",
+      "label": "OSS governance / project conflict",
+      "storyMentions": 5,
+      "mentionCount": 95,
+      "score": 120,
+      "stories": [
+        "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+        "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+        "Show HN: Apfel – The free AI already on your Mac",
+        "What Category Theory Teaches Us About DataFrames",
+        "TDF ejects its core developers"
+      ]
+    },
+    {
+      "key": "crypto_failure",
+      "label": "Crypto / governance hacks / protocol blowups",
+      "storyMentions": 10,
+      "mentionCount": 53,
+      "score": 103,
+      "stories": [
+        "Show HN: I built a frontpage for personal blogs",
+        "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+        "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+        "Big-Endian Testing with QEMU",
+        "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+        "SSH certificates: the better SSH experience"
+      ]
+    },
+    {
+      "key": "data_tools",
+      "label": "Data tooling / pandas / polars / dataframe abstractions",
+      "storyMentions": 2,
+      "mentionCount": 70,
+      "score": 80,
+      "stories": [
+        "SSH certificates: the better SSH experience",
+        "What Category Theory Teaches Us About DataFrames"
+      ]
+    },
+    {
+      "key": "privacy_security_ai",
+      "label": "AI privacy / exfiltration / trust",
+      "storyMentions": 7,
+      "mentionCount": 39,
+      "score": 74,
+      "stories": [
+        "Show HN: I built a frontpage for personal blogs",
+        "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+        "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+        "A Recipe for Steganogravy",
+        "SSH certificates: the better SSH experience",
+        "Show HN: Apfel – The free AI already on your Mac"
+      ]
+    },
+    {
+      "key": "openclaw_security",
+      "label": "OpenClaw security discourse",
+      "storyMentions": 3,
+      "mentionCount": 55,
+      "score": 70,
+      "stories": [
+        "SSH certificates: the better SSH experience",
+        "Show HN: Apfel – The free AI already on your Mac",
+        "If you're running OpenClaw, you probably got hacked in the last week"
+      ]
+    },
+    {
+      "key": "curation_small_web",
+      "label": "Small web / blogrolls / webrings / curation",
+      "storyMentions": 1,
+      "mentionCount": 54,
+      "score": 59,
+      "stories": [
+        "Show HN: I built a frontpage for personal blogs"
+      ]
+    },
+    {
+      "key": "speculative_tech",
+      "label": "Speculative engineering / megaproject thinking",
+      "storyMentions": 1,
+      "mentionCount": 11,
+      "score": 16,
+      "stories": [
+        "Mercurial Dyson – a plan for the disassembly of planet Mercury"
+      ]
+    }
+  ],
+  "topEdges": [
+    {
+      "from": "Post-RAG retrieval / search architecture",
+      "to": "Low-level systems / endianness / qemu / embedded",
+      "weight": 10
+    },
+    {
+      "from": "Post-RAG retrieval / search architecture",
+      "to": "Software bloat / uninstall pain / native UX",
+      "weight": 8
+    },
+    {
+      "from": "Post-RAG retrieval / search architecture",
+      "to": "Infra auth / SSH / certificates / access control",
+      "weight": 8
+    },
+    {
+      "from": "Post-RAG retrieval / search architecture",
+      "to": "Crypto / governance hacks / protocol blowups",
+      "weight": 8
+    },
+    {
+      "from": "Infra auth / SSH / certificates / access control",
+      "to": "Crypto / governance hacks / protocol blowups",
+      "weight": 8
+    },
+    {
+      "from": "Software bloat / uninstall pain / native UX",
+      "to": "Low-level systems / endianness / qemu / embedded",
+      "weight": 7
+    },
+    {
+      "from": "Software bloat / uninstall pain / native UX",
+      "to": "Crypto / governance hacks / protocol blowups",
+      "weight": 7
+    },
+    {
+      "from": "Infra auth / SSH / certificates / access control",
+      "to": "Low-level systems / endianness / qemu / embedded",
+      "weight": 7
+    },
+    {
+      "from": "Low-level systems / endianness / qemu / embedded",
+      "to": "Crypto / governance hacks / protocol blowups",
+      "weight": 7
+    },
+    {
+      "from": "AI privacy / exfiltration / trust",
+      "to": "Post-RAG retrieval / search architecture",
+      "weight": 6
+    },
+    {
+      "from": "AI privacy / exfiltration / trust",
+      "to": "Crypto / governance hacks / protocol blowups",
+      "weight": 6
+    },
+    {
+      "from": "Software bloat / uninstall pain / native UX",
+      "to": "Infra auth / SSH / certificates / access control",
+      "weight": 6
+    },
+    {
+      "from": "AI privacy / exfiltration / trust",
+      "to": "Software bloat / uninstall pain / native UX",
+      "weight": 5
+    },
+    {
+      "from": "AI privacy / exfiltration / trust",
+      "to": "Infra auth / SSH / certificates / access control",
+      "weight": 5
+    },
+    {
+      "from": "AI privacy / exfiltration / trust",
+      "to": "Low-level systems / endianness / qemu / embedded",
+      "weight": 5
+    },
+    {
+      "from": "Local AI / on-device models",
+      "to": "Post-RAG retrieval / search architecture",
+      "weight": 4
+    },
+    {
+      "from": "Post-RAG retrieval / search architecture",
+      "to": "OSS governance / project conflict",
+      "weight": 4
+    },
+    {
+      "from": "Software bloat / uninstall pain / native UX",
+      "to": "OSS governance / project conflict",
+      "weight": 4
+    },
+    {
+      "from": "OSS governance / project conflict",
+      "to": "Low-level systems / endianness / qemu / embedded",
+      "weight": 4
+    },
+    {
+      "from": "OSS governance / project conflict",
+      "to": "Crypto / governance hacks / protocol blowups",
+      "weight": 4
+    }
+  ],
+  "storyCounts": [
+    {
+      "title": "iNaturalist",
+      "comments": 12,
+      "score": "48 points",
+      "rank": 1
+    },
+    {
+      "title": "Show HN: I built a frontpage for personal blogs",
+      "comments": 132,
+      "score": "435 points",
+      "rank": 2
+    },
+    {
+      "title": "Solana Drift Protocol drained of $285M via fake token and governance hijack",
+      "comments": 1,
+      "score": "15 points",
+      "rank": 3
+    },
+    {
+      "title": "Understanding young news audiences at a time of rapid change",
+      "comments": 1,
+      "score": "19 points",
+      "rank": 4
+    },
+    {
+      "title": "Go on Embedded Systems and WebAssembly",
+      "comments": 0,
+      "score": "16 points",
+      "rank": 5
+    },
+    {
+      "title": "Samsung Magician disk utility takes 18 steps and two reboots to uninstall",
+      "comments": 132,
+      "score": "251 points",
+      "rank": 6
+    },
+    {
+      "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "comments": 10,
+      "score": "19 points",
+      "rank": 7
+    },
+    {
+      "title": "Big-Endian Testing with QEMU",
+      "comments": 42,
+      "score": "62 points",
+      "rank": 8
+    },
+    {
+      "title": "Show HN: TurboQuant for vector search – 2-4 bit compression",
+      "comments": 2,
+      "score": "36 points",
+      "rank": 9
+    },
+    {
+      "title": "April 2026 TLDR Setup for Ollama and Gemma 4 26B on a Mac mini",
+      "comments": 91,
+      "score": "226 points",
+      "rank": 10
+    },
+    {
+      "title": "A Recipe for Steganogravy",
+      "comments": 21,
+      "score": "95 points",
+      "rank": 11
+    },
+    {
+      "title": "The Technocracy Movement of the 1930s",
+      "comments": 5,
+      "score": "18 points",
+      "rank": 12
+    },
+    {
+      "title": "Build your own Dial-up ISP with a Raspberry Pi",
+      "comments": 3,
+      "score": "22 points",
+      "rank": 13
+    },
+    {
+      "title": "SSH certificates: the better SSH experience",
+      "comments": 55,
+      "score": "132 points",
+      "rank": 14
+    },
+    {
+      "title": "Show HN: Apfel – The free AI already on your Mac",
+      "comments": 122,
+      "score": "544 points",
+      "rank": 15
+    },
+    {
+      "title": "What Category Theory Teaches Us About DataFrames",
+      "comments": 42,
+      "score": "141 points",
+      "rank": 16
+    },
+    {
+      "title": "ESP32-S31: Dual-Core RISC-V SoC with Wi-Fi 6, Bluetooth 5.4, and Advanced HMI",
+      "comments": 86,
+      "score": "158 points",
+      "rank": 17
+    },
+    {
+      "title": "TDF ejects its core developers",
+      "comments": 78,
+      "score": "119 points",
+      "rank": 18
+    },
+    {
+      "title": "If you're running OpenClaw, you probably got hacked in the last week",
+      "comments": 54,
+      "score": "112 points",
+      "rank": 19
+    },
+    {
+      "title": "Mercurial Dyson – a plan for the disassembly of planet Mercury",
+      "comments": 10,
+      "score": "22 points",
+      "rank": 20
+    }
+  ]
+}
